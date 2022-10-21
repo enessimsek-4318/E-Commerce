@@ -1,0 +1,36 @@
+﻿@using Entity
+@{
+    @model Product
+}
+@{
+    ViewBag.Title = "ProductEdit";
+}
+<section id="form">
+    <!--form-->
+    <div class="container">
+        <div class="col-sm-8 col-md-6 col-lg-4 col-lg-offset-4 col-md-offset-3 col-sm-offset-2">
+            <div class="login-form">
+                <!--Admin login form-->
+                <h2>Product Edit</h2>
+                @using (Html.BeginForm("ProductEdit", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    <input type="text" name="productName" value="@Model.productName" placeholder="Product Name" />
+                    <input type="text" name="productDescription" value="@Model.productDescription" placeholder="Product Description" />
+                    <input type="text" name="productBrand" value="@Model.productBrand" placeholder="Brand" />
+                    <input type="text" name="price" value="@Model.price" placeholder="Price" />
+                    @*Burda number tipinde bir değer veremiyorum. Price tipi Decimal olduğu için olabilir Text olarak ekrana veriyoruz. Geri alırken decimale çevirip db save yapacam.*@
+                    <input type="number" name="stockNumber" value="@Model.stockNumber" placeholder="Stock Number" />
+                    <input type="file" name="productPhoto" placeholder="Select Photo" />
+                    <select type="text" name="productName" placeholder="Category" name="category" id="category">
+                        @foreach (var item in (List<Category>)ViewBag.category)
+                        {
+                            <option value="@item.categoryId">@item.categoryName</option>
+                        }
+                    </select>
+                    <button type="submit" class="btn btn-default">Save</button>
+                }
+            </div><!--/Admin login form-->
+        </div>
+    </div>
+
+</section><!--/form-->

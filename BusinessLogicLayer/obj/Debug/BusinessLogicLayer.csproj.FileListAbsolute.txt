@@ -1,0 +1,14 @@
+C:\Users\enes4\Desktop\KURS\WebFromCalisma\Proje\WebApplication_1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\enes4\Desktop\KURS\WebFromCalisma\Proje\WebApplication_1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\enes4\Desktop\KURS\WebFromCalisma\Proje\WebApplication_1\BusinessLogicLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\enes4\Desktop\KURS\WebFromCalisma\Proje\WebApplication_1\BusinessLogicLayer\bin\Debug\Entity.dll
+C:\Users\enes4\Desktop\KURS\WebFromCalisma\Proje\WebApplication_1\BusinessLogicLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\enes4\Desktop\KURS\WebFromCalisma\Proje\WebApplication_1\BusinessLogicLayer\bin\Debug\Entity.pdb
+C:\Users\enes4\Desktop\KURS\WebFromCalisma\Proje\WebApplication_1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\enes4\Desktop\KURS\WebFromCalisma\Proje\WebApplication_1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\enes4\Desktop\KURS\WebFromCalisma\Proje\WebApplication_1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\enes4\Desktop\KURS\WebFromCalisma\Proje\WebApplication_1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\enes4\Desktop\KURS\WebFromCalisma\Proje\WebApplication_1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\enes4\Desktop\KURS\WebFromCalisma\Proje\WebApplication_1\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\enes4\Desktop\KURS\WebFromCalisma\Proje\WebApplication_1\BusinessLogicLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\enes4\Desktop\KURS\WebFromCalisma\Proje\WebApplication_1\BusinessLogicLayer\bin\Debug\EntityFramework.xml
